@@ -1,7 +1,7 @@
 # Sunsiadek
 
 ### jfddr3-sunsiadek-app
-#### Staging: https://infoshareacademy.github.io/jfddr3-sunsiadek-app
+#### Staging: https://jakgi.github.io/jfddr3-sunsiadek-app/login
 
 <br />
 
